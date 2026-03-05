@@ -2,7 +2,7 @@
 #!desc=作者：循环1337
 
 [MITM]
-hostname = %APPEND% app.bilibili.com, grpc.biliapi.net, api.bilibili.com
+hostname = %APPEND% app.bilibili.com, api.bilibili.com
 
 [Map Local]
 # 拦截搜索广场，彻底去除热搜和发现
