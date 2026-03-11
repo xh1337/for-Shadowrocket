@@ -52,8 +52,8 @@ RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.li
 RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list,🍃 应用净化,update-interval = 
 
 # >> AI 专用规则 (必须走代理，香港不可用)
-RULE-SET,https://raw.githubusercontent.com/cycle1337-stack/Rules-for-Shadowrocket/refs/heads/main/RULE-SET_Apple_Intelligence.list,🍎 苹果智能,update-interval = 86400
-RULE-SET,https://raw.githubusercontent.com/cycle1337-stack/Gemini-rules-for-Shadowrocket/refs/heads/main/RULE-SET_Gemini.list,✨ Gemini,update-interval = 86400
+RULE-SET,https://xh1337.github.io/for-Shadowrocket/RULE-SET_Apple_Intelligence.list,🍎 苹果智能,update-interval = 86400
+RULE-SET,https://xh1337.github.io/for-Shadowrocket/RULE-SET_Gemini.list,✨ Gemini,update-interval = 86400
 RULE-SET,https://yfamilys.com/rule/OpenAI.list,💬 OpenAI,update-interval = 86400
 RULE-SET,https://yfamilys.com/rule/Claude.list,✒️ Claude,update-interval = 86400
 
