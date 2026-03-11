@@ -1,0 +1,20 @@
+# 关键词HSBC一网打尽
+DOMAIN-KEYWORD,hsbc
+
+# CDN / SYSTEM
+host-suffix,akamaiedge.net
+host-suffix,akamaitechnologies.com
+host-suffix,akamaized.net
+host-suffix,edgesuite.net
+host-suffix,akadns.net
+host-suffix,azure-api.net
+host-suffix,azureedge.net
+host-suffix,azurefd.net
+
+# Analytics
+host-suffix,112.2o7.net
+host-suffix,demdex.net
+host-suffix,adobedtm.com
+host-suffix,omtrdc.net
+host-suffix,googletagmanager.com
+host-suffix,app-measurement.com
