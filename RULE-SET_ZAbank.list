@@ -23,4 +23,4 @@ DOMAIN,bank-stock.zafinsvc.com
 DOMAIN,offlineapp.za.group
 DOMAIN,wbs.za.group
 DOMAIN,mobile.za.group
-DOMAIN,zainvest.group
+DOMAIN-SUFFIX,zainvest.group
