@@ -11,16 +11,4 @@ DOMAIN-SUFFIX,zajourney.com
 DOMAIN-SUFFIX,zafinsvc.com
 DOMAIN-SUFFIX,zaticdn.com
 DOMAIN-SUFFIX,guardease.com
-
-# 内部接口与应用监控
-DOMAIN,bankappgw.za.group
-DOMAIN,appmon-prd.zajourney.com
-DOMAIN,webmon-prd.zajourney.com
-DOMAIN,integrate-appgw.zajourney.com
-DOMAIN,ir-sdk.guardease.com
-DOMAIN,bank-sbsmarket.zafinsvc.com
-DOMAIN,bank-stock.zafinsvc.com
-DOMAIN,offlineapp.za.group
-DOMAIN,wbs.za.group
-DOMAIN,mobile.za.group
 DOMAIN-SUFFIX,zainvest.group
