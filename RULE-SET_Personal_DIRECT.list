@@ -37,5 +37,9 @@ DOMAIN-SUFFIX,getui.net
 DOMAIN-SUFFIX,inkuai.com
 DOMAIN-SUFFIX,usertrust.com
 DOMAIN-SUFFIX,alltuu.com
+
+# 新片场素材库
 DOMAIN-SUFFIX,xpccdn.com
+
+# 字节跳动中国
 DOMAIN-SUFFIX,snssdk.com
