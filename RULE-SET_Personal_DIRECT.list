@@ -45,3 +45,7 @@ DOMAIN-SUFFIX,xpccdn.com
 
 # 字节跳动中国
 DOMAIN-SUFFIX,snssdk.com
+
+#拓竹Bambu studio & Bambu handy
+DOMAIN-SUFFIX,bambulab.com
+DOMAIN-SUFFIX,bambu-lab.com
