@@ -51,3 +51,6 @@ DOMAIN-SUFFIX,bambulab.com
 DOMAIN-SUFFIX,bambu-lab.com
 DOMAIN-SUFFIX,iotcplatform.com
 DOMAIN,cn.mqtt.bambulab.com
+
+# 米家智能
+DOMAIN,miot-spec.org
